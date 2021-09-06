@@ -133,3 +133,4 @@ import this #好长但是里面的道理我都懂
 list = ["OCP", "A", "B", "C", "D"]
 print(list)
 print(list[1]," ",list[2]," ",list[3]," ",list[4])
+#正在测试Github
